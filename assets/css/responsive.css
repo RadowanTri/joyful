@@ -1,0 +1,1026 @@
+
+
+
+@media only screen and (min-width: 1800px) and (max-width: 2600px) {
+	.ornament {
+		left: -15%;
+		bottom: -10%;
+	}	
+
+	
+	.mb-150 {
+		margin-bottom: 190px;
+	}
+
+}
+@media only screen and (min-width: 1600px) and (max-width: 1799px) {
+	.ornament {
+		position: absolute;
+		left: -15%;
+		bottom: -15%;
+		z-index: -1;
+	}	
+	
+}
+@media only screen and (min-width: 1140px) and (max-width: 1699px) {
+	.ornament {
+		position: absolute;
+		left: -15%;
+		bottom: -15%;
+		z-index: -1;
+	}	
+	
+}
+
+
+/* Medium Layout: 1280px. */
+
+
+
+@media only screen and (min-width: 992px) {
+	/*Edit*/
+	.happy-wrapper.py-80 {
+		padding-top: 106px;
+		padding-bottom: 138px;
+	}
+	.btn {
+		height: 43px;
+	}
+
+	.follow-btn .btn {
+		padding: 14px 48px 13px 48px;
+	}
+	.share-joyful .py-80 {
+		padding-top: 99px;
+		padding-bottom: 80px;
+
+	}
+	.share-heading .font-size-36 {
+		margin: 8px 0px;
+	}
+	.share-heading h4.jv-dark-color {
+
+		margin: 8px 0px;
+	}
+	.wedding-count .py-65 {
+		padding-top: 68px;
+		padding-bottom: 79px;
+	}
+
+	.wedding-relative .mb-150{
+		margin-bottom: 74px;
+	}
+	.goal-wrapper .py-80 {
+		padding-top: 116px;
+		padding-bottom: 127px;
+	}
+
+	.jowful-wrapper .py-65 {
+		padding-top: 65px;
+		padding-bottom: 87px;
+	}
+	.jowful-wrapper .jowful-wrapper-content .pt-24 {
+		padding-top: 50px;
+	}
+	.feature-wrapper .py-65 {
+		padding-top: 64px;
+		padding-bottom: 66px;
+	}
+	.meets-wrapper{
+		padding-top: 161px;
+		padding-bottom: 160px;
+	}
+
+	/*Edit*/
+
+}
+@media only screen and (min-width: 1600px){
+	.wedding-relative .mb-150 {
+		margin-bottom: 84px;
+	}
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/*	.wedding-img-absolate {
+		bottom: -25%;
+		width: 40%;
+	}*/
+	.wedding-img {
+		max-width: 100%;
+	}
+	.wedding-relative .mbr-216 {
+		padding-top: 20px;
+	}
+	.navbar-150{
+		width: 130px;
+	}
+	#f-header .navbar-nav li {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+    .py-80{
+		padding:50px 0px;
+	}
+	.pt-15{
+		padding-top: 10px;
+	}
+	.pt-24{
+		padding-top: 15px;
+	}
+	.py-24{
+		padding: 15px 0px;
+	}
+	.pl-30,
+	.pr-30{
+		padding: 0px;
+	}
+	.py-65 {
+		padding: 40px 0px;
+	}
+	.my-25{
+		margin: 15px 0px;
+	}
+	
+	.my-32{
+		margin: 24px 0px;
+	}
+	.mb-150 {
+		margin-bottom: 100px;
+	}
+	.mbr-216 {
+		margin-bottom: 130px;
+	}
+	.font-size-36 {
+		font-size: 32px;
+	}
+	.font-size-20 {
+		font-size: 15px;
+	}
+	.font-size-48 {
+		font-size:40px;
+
+	}
+	.font-size-48.sm-28 {
+		font-size: 28px;
+	}
+	.font-size-40 {
+		font-size: 30px;
+	
+	}
+
+	.wedding-content.weeding-right,
+	.wedding-content.weeding-left{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.wedding-content .count {
+		font-size: 65px;
+	}
+	.footer-area {
+		padding-top: 35px;
+		padding-bottom: 46px;
+	}
+
+
+	/*about-us*/
+	.first-couple .couple-content {
+		padding-left:0px;
+	}
+
+.d-md-item-flex{
+	display: flex;
+	align-items: center;
+}
+
+.video-placeholer-wrapper1:before {
+	top: 0px;
+    left: 0%;
+    background: linear-gradient(315deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #FBF7E9;
+    height: 100%;
+}
+.video-placeholer-wrapper1 .sm-flex-r{
+	padding: 20px 0px;
+}
+
+
+
+
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	.btn {
+		min-width: 207px;
+	}
+	.py-80{
+		padding:35px 0px;
+	}
+	.pt-15{
+		padding-top: 10px;
+	}
+	.pt-24{
+		padding-top: 15px;
+	}
+	.py-24{
+		padding: 15px 0px;
+	}
+	.pl-30,
+	.pr-30{
+		padding: 0px;
+	}
+	.py-65 {
+		padding: 40px 0px;
+	}
+	.my-25{
+		margin: 15px 0px;
+	}
+	
+	.my-32{
+		margin: 24px 0px;
+	}
+	.mbr-216 {
+		margin-bottom: 130px;
+	}
+	.font-size-36 {
+		font-size: 28px;
+	}
+	.font-size-20 {
+		font-size: 14px;
+	}
+	.font-size-48 {
+		font-size:36px;
+		line-height: 120%;
+	}
+	.font-size-48.sm-28 {
+		font-size: 28px;
+		line-height: 130%;
+	}
+	.font-size-40 {
+		font-size: 27px;
+		line-height: 130%;
+	}
+
+	.sm-banner-img img{
+		width: 100%;
+	}
+	.banner-wrapper {
+	    display: block;
+	    height: 100%;
+	    padding-bottom: 40px;
+	    padding-top: 0px;
+	}
+
+/*	#banner-sm-top {   
+		margin-top: -80px;
+	}*/
+	.sm-flex-r {
+	    display: flex;
+	    flex-direction: column-reverse;
+	}
+	.banner-content p{
+		line-height: 1.4;
+		font-size: 16px;
+	}
+	.banner-wrapper .section-heading-one{
+	  font-size: 24px;
+	  line-height:31px;
+	}
+	.banner-wrapper .section-sub-heading{
+	  font-size: 18px;
+	  line-height:23px;
+	}
+	.banner-wrapper .banner-heading h1 {
+	    font-size: 52px;
+	    line-height: 62px;
+	}
+	.d-heading-flex {
+		display: block;
+	}
+
+	.happy-wrapper .yes-heading {
+		line-height: 120%;
+	}
+
+	.happy-wrapper p{
+		font-size: 15px;
+	}
+	.happy-wrapper .form-control {
+		margin-bottom: 12px;
+	}
+	h5.jake.font-size-20{
+		font-size: 18px;
+	}
+	.share-joyful,
+	.goal-wrapper{
+		background: transparent;
+	}
+	.share-joyful .py-80,
+	.goal-wrapper .py-80{
+		padding: 0px;
+	}
+	.share-joyful-content {
+		padding: 30px 0px;
+	}
+	.share-joyful-content p {
+		line-height: 140%;
+	}
+	.share-heading h4.jv-dark-color {
+		font-size: 16px;
+	}
+	.wedding-content{
+		padding-top: 40px;
+	}
+	.wedding-content.weeding-right,
+	.wedding-content.weeding-left{
+		display: block;
+		padding-left: 0px;
+		padding-right: 0px;
+		text-align: center;
+	}
+	.wedding-content .count {
+		font-size: 64px;
+	}
+
+	.jowful-wrapper {
+		text-align: center;
+	}
+	.jowful-wrapper-content .pt-24{
+		padding-top: 28px;
+	}
+
+	.feature-heading .font-size-48 {
+		font-size: 33px;
+		line-height: 120%;
+	}
+	.feature-heading p{
+		font-size: 14px;
+		line-height: 140%;
+	}
+	br{
+		display: none;
+	}
+	.banner-wrapper .banner-heading h1 br{
+		display: block !important;
+	}
+	.gallery-grid-2{
+		display: none;
+	}
+	.gallery-grid-1 {
+		padding-bottom: 20px;
+	}
+	.follow-btn .btn {
+		margin-top: 20px;
+		font-size: 14px;
+	}
+	.meets-wrapper .font-size-48{
+		font-size: 32px;
+		line-height: 120%;
+	}
+	.meets-wrapper .do{
+		font-size: 72px;
+	}
+	.meets-wrapper {
+		background:transparent;
+		padding: 0px;
+	}
+	.meets-wrapper .d-heading-block{
+		padding-top: 45px;
+	}
+	.wedding-relative .mb-150 {
+		margin-bottom: 100px;
+
+	}
+	.wedding-relative .mbr-216 {
+		margin-bottom: 101px;
+	}
+
+	.banner-heading {
+		margin-bottom: 30px;
+	}
+
+
+	.happy-wrapper.py-80 {
+		padding-top: 36px;
+		padding-bottom: 49px;
+	}
+
+
+	/*about-us*/
+		
+	div#about-banner-sm-top {
+		padding-top: 57px;
+	}
+
+
+	.first-couple{
+		margin: 0px;
+	}
+	.first-couple .couple-content {
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-top: 24px;
+		padding-bottom: 40px;
+		text-align: center;
+	}
+	.first-couple .couple-content .font-size-20 {
+		padding: 25px 0px;
+	}
+    .media-wrapper {
+	    background: transparent;
+	}
+	.media-wrapper-padding {
+    padding-top: 45px;
+    padding-bottom: 0px;
+}
+.media-wrapper-content {
+    padding-bottom: 30px;
+}
+	.media-wrapper-padding .font-size-48 {
+    font-size: 28px;
+    line-height: 120%;
+}
+.media-wrapper-padding .font-size-48 br {
+    display: block;
+}
+
+/*praise*/
+.ornament-right,
+.ornament-left {
+    display: none;
+}
+
+.watch {
+    position: relative;
+    padding-bottom: 30px;
+    padding-top: 48px;
+    text-align: center;
+    background: linear-gradient(315deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #F2F2F2;
+}
+.watch .ornament-mddile-content{
+    position: absolute;
+    top: -25px;
+    left: 25%;
+    z-index: -1;
+}
+
+.watch .share-joyful-content {
+    padding-bottom: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 16px;
+    margin-bottom: 25px;
+    border: 3px solid #3F5261;
+}
+
+.watch .pt-15{
+	padding-top: 16px;
+}
+
+.watch .font-size-20 {
+    font-size: 16px;
+    line-height: 130%;
+}
+
+/*.watch.three {
+    padding-bottom: 0px !important;
+}*/
+.load-more .btn{
+	margin-top: 0px;
+}
+.contact-us .font-size-34 {
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.contact-us .font-size-56 {
+	font-size: 28px;
+	line-height: 140%;
+}
+.contact-us .banner-content .ornament img {
+    max-width: 70%;
+}
+
+.contact-us .price {
+    padding-top: 37px;
+/*    padding-bottom: 46px;*/
+}
+/*6/11*/
+.contact-us .contact-form {
+    padding-bottom: 46px;
+}
+.contact-us .packge {
+
+    grid-template-columns: repeat(1,minmax(0,1fr));
+
+}
+.contact-us .pakge-content p {
+    padding-top: 10px;
+
+}
+.contact-us .share-joyful-content {
+    padding-bottom: 25px;
+        padding-top: 15px;
+}
+.bundle br,
+.work-us br{
+	display: block;
+}
+.contact-us .bundle {
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 40px;
+    margin: 0px 20px;
+}
+
+.contact-us  .form-group {
+    margin-bottom: 0px;
+}
+
+.contact-us .contact-form .form-control {
+    margin-bottom: 33px;
+}
+.contact-say {
+    background:transparent;
+}
+.contact-say-padding {
+     padding-top: 53px; 
+     padding-bottom:0px; 
+}
+.contact-title {
+    padding-bottom:42px;
+}
+.work-us .section-sub-heading {
+    font-size: 24px;
+    line-height: 120%;
+
+}
+.work-us .font-size-88 {
+    font-size: 36px;
+    line-height: 120%;
+    padding-top: 15px;
+}
+.work-us .font-size-88 span{
+    display: none;
+}
+
+
+.work-us .font-size-32 {
+    font-size: 26px;
+
+}
+.work-us .share-joyful-content {
+  	padding: 20px 10px 0px;
+    text-align: center;
+}
+.share-heading h4.jv-dark-color {
+    font-size: 15px;
+}
+.video-bg,
+.video-bg1,
+.video-bg2{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.video-bg:before,
+.video-bg1:before,
+.video-bg2:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left:0%;
+    z-index: -1;
+    background: linear-gradient(315deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #F2F2F2;
+    width: 100%;
+    height: 100%;
+}
+.video-bg1:before {
+
+    background: linear-gradient(315deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #FBF7E9;
+
+}
+
+.video-bg2:before {
+	background: linear-gradient(315deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #EFE6E3; #F2F2F2;
+}
+
+.video-bg1{
+	padding-top: 48px;
+	padding-bottom: 58px;
+}
+.video-placeholer-wrapper {
+    padding-top: 50px;
+    padding-bottom: 60px;
+    margin-top:20px;
+}
+.video-placeholer-wrapper1,
+.video-placeholer-wrapper2  {
+    margin-top:0px;
+}
+.video-placeholer-wrapper:before,
+.video-placeholer-wrapper1:before,
+.video-placeholer-wrapper2:before {
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+
+.faq-wraper {
+    padding-top: 32px;
+    padding-bottom: 48px;
+}
+
+.faq-wraper .font-size-36 {
+    font-size: 24px;
+}
+
+.faq-wraper .font-size-36 {
+    padding-bottom: 40px;
+}
+#accordion .card-header, #accordion .card-body {
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+#accordion .card-body p {
+    padding-bottom: 10px;
+}
+
+.why-not {
+    background: transparent;
+}
+.why-not .font-size-48{
+	color: #fff;
+	font-size: 28px;
+	line-height: 120%;
+}
+
+.work-us .contact-say-padding {
+    padding-top: 48px;
+    padding-bottom: 0px;
+}
+
+/*6/11*/
+
+#f-header .navbar-logo img {
+    width: 87px;
+    height: 87px;
+    max-width: 100%;
+}
+.home .banner-content .ornament {
+    top: 20%; 
+}
+.home .banner-content .ornament img {
+    max-width: 67%;
+}
+
+.home .banner-content {
+    margin-top: -50px;
+}
+
+.home .banner-wrapper .section-heading-one {
+    padding-bottom: 5px;
+}
+.praise .section-sub-heading {
+    font-size: 24px;
+}
+.praise .banner-wrapper .banner-heading h1 {
+    font-size:52px;
+    line-height: 120%;
+    padding: 10px 0px;
+}
+.contact-form .sm-padding-15{
+	padding: 0px 15px;
+}
+.contact-form .sm-padding-15 p{
+	line-height: 140%;	
+}
+
+.video-bg .share-joyful-content,
+.video-bg2 .share-joyful-content {
+    padding-left: 0px;
+}
+.video-bg1 .share-joyful-content {
+    padding-right: 0px;
+}
+
+
+
+}
+
+
+
+/* Wide Mobile Layout: 767px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.mbr-216 {
+		margin-bottom: 150px;
+	}
+	.footer-area ul li {
+		display: inline-block;
+		padding-right: 15px;
+	}
+	.what-we-do {
+    padding-top: 36px;
+    padding-bottom: 60px;
+}
+.what-makes-contnet {
+    padding-top: 51px;
+    padding-bottom: 45px;
+    text-align: center;
+}
+.team {
+    text-align: center;
+    padding-top: 51px;
+    background: linear-gradient(
+0deg
+, #FBF7E9, #FBF7E9), transparent;
+    padding-bottom: 51px;
+}
+.what-to-do-gallery {
+    padding-top: 30px;
+}
+.what-to-do-gallery-sm{
+	display:none;
+}
+.team .team-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0,1fr));
+    position: relative;
+    grid-column-gap: 55px;
+    grid-row-gap: 35px;
+    padding-top: 77px;
+}
+
+
+
+       
+}
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+	.wedding-count .mb-150 {
+		margin-bottom: 85px;
+	}
+	.wedding-content {
+		padding-top: 30px;
+	}
+	.follow-btn .btn {
+		width: 100%;
+	}
+	.jowful-wrapper-content p{
+		 font-size: 15px; 
+	}
+	.footer-area ul li {
+		display: block;
+		padding:2px;
+	}
+		.sm-flex-r {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.banner-content {
+		margin-top: 15px;
+	}
+
+	
+	.footer-area {
+		padding-top: 24px;
+		padding-bottom:46px;
+	}
+	.banner-wrapper .banner-heading h1 {
+		font-size: 52px;
+		line-height: 62px;
+		padding: 7px 0px;
+	}
+	.banner-content .ornament {
+		left: 50%;
+		top: 25%;
+	}
+	.banner-content .ornament img{
+		max-width: 80%;
+	}
+	.wedding-mb.mb-150 {
+		margin-bottom: 40px;
+	}
+	.wedding-relative .mbr-216 {
+		margin-bottom: 85px;
+	}
+	.goal-wrapper {
+		margin-top: 20px;
+	}
+	.share-joyful-content {
+		padding-bottom: 50px;
+	}
+	.joyful-wrapper .py-65 {
+		padding-top: 48px;
+		padding-bottom: 42px;
+	}
+	.feature-wrapper .py-65 {
+		padding-top: 48px;
+		padding-bottom: 65px;
+	}
+
+	/*About Us*/
+	.about-us .banner-content .ornament img,
+	.praise .banner-content .ornament img {
+		max-width: 60%;
+	}
+	.about-us .banner-wrapper,
+	.praise .banner-wrapper {
+		padding-bottom:50px;
+	}
+	.about-us .video-img {
+		 padding-top:0px; 
+	}
+	.what-we-do {
+		padding-top: 48px;
+		padding-bottom: 40px;
+	}
+	.what-we-do .share-joyful-content {
+	    padding-top: 49px;
+	    padding-left: 25px;
+	    padding-right: 25px;
+	    padding-bottom: 0px;
+	}
+	.what-we-do .share-joyful-content .font-size-36{
+		padding-bottom: 8px;
+	}
+	.what-we-do .share-joyful-content .font-size-36 br{
+		display: block;
+	}
+	.what-we-do .share-joyful-content .my-32 {
+	    margin: 32px 0px;
+	}
+	.what-to-do-gallery {
+		grid-template-columns: repeat(2, minmax(0,1fr));
+	    grid-column-start: 2;
+		padding-top: 20px;
+	}
+	.what-makes{
+		padding-top: 40px;
+		padding-bottom:41px;
+	}
+
+	.what-makes-contnet {
+		padding-top: 51px;
+		padding-bottom:0px;
+		padding-left: 25px;
+		text-align: center;
+		padding-right: 25px;
+	}
+	
+.what-make-heading h4 {
+    font-size: 16px;
+    line-height: 130%;
+    padding-top: 14px;
+}
+
+.team {
+    text-align: center;
+    padding-top: 53px;
+    padding-bottom: 48px;
+}
+
+.team-heading h3 br{
+	display: block;
+
+}
+.team .team-grid {
+    grid-template-columns: repeat(1, minmax(0,1fr));
+    grid-row-gap: 24px;
+    padding-top: 40px;
+}
+.degination {
+    max-width: 60%;
+    margin: 0 auto;
+}
+.gallery-grid-50 {
+    width: 45%;
+    margin: 6px;
+}
+.what-to-do-gallery-sm{
+	display: block;
+}
+.what-to-do-gallery{
+	display: none;
+}
+
+.home .banner-content .ornament {
+	top: 30%;
+}
+.home .banner-content .ornament img {
+    max-width: 70%;
+}
+
+
+
+	
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+
+	.banner-wrapper-content {
+	    position: relative;
+	}
+
+	.home .ornament-sm {
+	    position: absolute;
+	    top: -50%;
+	    left: 25%;
+	}
+	.about-us .ornament-sm {
+	    position: absolute;
+	    top: -50%;
+	    left: 25%;
+	}
+	.praise .ornament-sm {
+		position: absolute;
+		top: -25%;
+		left: 25%;
+	}
+	.praise .ornament-sm img{
+		max-width: 90%;
+	}
+	.contact-us .ornament-sm {
+	    position: absolute;
+	    top: -25%;
+	    left: 25%;
+	}
+	.contact-us .ornament-sm img{
+		max-width: 90%;
+	}
+	.work-us .ornament-sm {
+		position: absolute;
+		top: -35%;
+		left: 20%;
+	}
+	.work-us .ornament-sm img{
+		max-width: 100%;
+	}
+
+
+	.pop_up_item .videos-icon a {
+		height: 55px;
+		width: 55px;
+	}
+	.pop_up_item .videos-icon a img{
+		max-width: 80%;
+	}
+	.team{
+		background: transparent;
+	}
+
+	.team:before{
+		content: "";
+		position: absolute;
+		top: 0%;
+		left: 0;
+		width: 100%;
+		height: 29%;
+		background: linear-gradient(0deg, #FBF7E9, #FBF7E9), transparent;
+		z-index:-1;
+	}
+
+	.work-us .font-size-32 {
+		font-size: 24px;
+	}
+	.work-us  .banner-content .ornament img {
+		max-width: 100%;
+	}
+	.what-makes-contnet .font-size-48 {
+		font-size: 33px;
+		line-height: 120%;
+	}
+	.what-makes-contnet p,
+	.couple-content p {
+		font-size: 14px;
+		line-height: 140%;
+	}
+	.couple-content .font-size-40 {
+		font-size: 28px;
+	}
+	.couple-content .font-size-40 br{
+		display: block
+	}
+	.why-not p br {
+		display: none;
+	}
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 350px) {
+	.font-size-36 {
+		font-size: 23px;
+	}
+	.couple-content .font-size-40 br{
+		display: none;
+	}
+	
+
+}
